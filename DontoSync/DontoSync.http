@@ -1,0 +1,6 @@
+@DontoSync_HostAddress = http://localhost:5208
+
+GET {{DontoSync_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
